@@ -53,7 +53,7 @@ Detects epileptic seizures from EEG signal data using a 1D Convolutional Neural 
 #### 🎧 [EchoNav](#)
 An AI-based assistive navigation system that helps visually impaired individuals interpret their surroundings through audio feedback, using real-time object detection and sound mapping to make navigation safer and more intuitive.
 
-> 💡 *Replace the `#` links above with your actual repo URLs.*
+
 
 ---
 

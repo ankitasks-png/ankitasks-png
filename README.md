@@ -36,9 +36,7 @@
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&lines=%23+floating+through+code+and+constellations+%F0%9F%9A%80;%23+mission+status%3A+exploring+%7C+building+%7C+learning" alt="astronaut caption"/>
-</p>
+
 
 ---
 

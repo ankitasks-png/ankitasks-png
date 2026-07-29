@@ -36,42 +36,26 @@
 </tr>
 </table>
 
-
-
 ---
 
-### 🧠📊 Technical Events & Research
+### 🧠📊 Technical/Non Technical Events & Research
 
 <div align="center">
 
-| 🔬 Research | 🏆 Competitions | 🧑‍💻 Community |
-|:---:|:---:|:---:|
-| Summer Research Intern @ **CCBD-CDSAML** | 🚩 Capture The Flag (CTF) | 🧩 SIG Member @ CCBD-CDSAML |
-| 🧠 Neural Signal / ML Research | 🏆 Mystara Hackathon | ⚡ Genesys |
-| 📊 IBM Global Datathon | 🎃 Hack-O-Ween | 🧩 GRASP |
+| 🔬 Research | 🏆 Competitions/Events | 👩‍💻 Club Work |
+|:---|:---|:---|
+| Summer Research Intern - CDSAML | 🚩 Capture The Flag (CTF) | AURA - Socials and Outreach |
+| | 🧩 Mystara Hackathon | Samarpana - Hospitality Team Member - Indian Army Martyrs Felicitation |
+| | ⚡ Genesys - State Level Hackathon | IRA - Operations and Marketing |
+| | 🌏 IBM Global Datathon | Kannada Koota - Guitarist |
+| | 🎃 Hack-O-Ween - 24 Hour Hackathon - Top 10 Finalist | Music Club of PES - Musician |
+| | 🇮🇳 GRASP - National Hackathon | |
+| | 💡 CIE SPARK - Top 20 Finalist - Entrepreneurial Ideathon | |
+| | 🥈 Runner's Up - Badminton | |
+| | 🎼 Battle Of Bands - Aatmatrisha College Fest - 2025 | |
 
 </div>
 
----
-
-### 🏸🎸🎤 Beyond the Code
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  <img src="https://media.giphy.com/media/xUOxfjsW9fWPqEWouI/giphy.gif" width="120"/><br/>
-  🎶 Musician — Music Club of PES & Kannada Koota
-</td>
-<td align="center" width="33%">
-  <img src="https://media.giphy.com/media/l0MYFAlbGDrpJHKuQ/giphy.gif" width="120"/><br/>
-  🎤 Performed at Battle of Bands, Aatmatrisha'25
-</td>
-<td align="center" width="33%">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="120"/><br/>
-  🏸 Runner-Up — Inter-Dept Women's Badminton
-</td>
-</tr>
-</table>
 
 ---
 

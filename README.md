@@ -59,7 +59,7 @@
 
 ---
 
-### 🛠 Projects — `AI-Powered Builds`
+### 🛠 Projects 
 
 <details open>
 <summary>🛡️ <b>HarmLens</b> — Real-time Content Moderation Engine</summary>

@@ -10,50 +10,113 @@
 
 ---
 
-### 🎓 About Me
+<!-- AI Terminal-style animated intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E+booting_neural_net.py...;%3E+loading+quantum_module...+%E2%9C%93;%3E+status%3A+curious+%7C+caffeinated+%7C+compiling;%3E+ready_to_build()" alt="AI Terminal Typing" />
+</p>
 
-- 🎓 BTech Computer Science Engineering student at **PES University, Bangalore**
-- 💻 Interested in **Software Development**, **real-world ML problem solving**, and **CyberSecurity** (beginner) — with a flaming passion for **Quantum Computing**
-- 🌐 I enjoy connecting with curious, driven people who love technology, innovation, and creativity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/robot.gif" width="200"/>
+</p>
+
+---
+
+### 🤖 About Me — `AI x Human`
+
+```python
+class Ankita:
+    def __init__(self):
+        self.role = "BTech CSE @ PES University, Bangalore"
+        self.focus = ["Software Development", "Machine Learning", "CyberSecurity"]
+        self.obsession = "Quantum Computing 🌀"
+        self.mode = "always_debugging"
+
+    def connect(self):
+        return "Let's build something intelligent together 🚀"
+```
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/622f2a12dfb04c5c84e50e774dbc84379d8b25e714aa2f47019b3e9ab4a0c5f/68747470733a2f2f6d696469362e70696374757265732e73766766696e642e636f6d2f4c6f747469652f4c6f747469652d5468696e6b696e672e676966" width="180"/>
+</p>
 
 ---
 
 ### 🧠📊 Technical Events & Research
 
-- 🔬 Summer Research Intern at **CCBD-CDSAML Research Center**
-- 🚩 Capture The Flag (CTF)
-- 🏆 Mystara Hackathon
-- 📊 IBM Global Datathon
-- 🎃 Hack-O-Ween
-- 🧩 GRASP
-- ⚡ Genesys
-- 🧑‍🔬 Member of the **Special Interest Group (SIG)** at CCBD-CDSAML Research Center
+<div align="center">
+
+| 🔬 Research | 🏆 Competitions | 🧑‍💻 Community |
+|:---:|:---:|:---:|
+| Summer Research Intern @ **CCBD-CDSAML** | 🚩 Capture The Flag (CTF) | 🧩 SIG Member @ CCBD-CDSAML |
+| 🧠 Neural Signal / ML Research | 🏆 Mystara Hackathon | ⚡ Genesys |
+| 📊 IBM Global Datathon | 🎃 Hack-O-Ween | 🧩 GRASP |
+
+</div>
 
 ---
 
 ### 🏸🎸🎤 Beyond the Code
 
-- 🎶 Musician for **Music Club of PES** and **Kannada Koota**
-- 🎤 Performed at **Battle of Bands** during Aatmatrisha'25
-- 🏸 Runner-Up, **Inter-Department Women's Badminton**
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/xUOxfjsW9fWPqEWouI/giphy.gif" width="120"/><br/>
+  🎶 Musician — Music Club of PES & Kannada Koota
+</td>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/l0MYFAlbGDrpJHKuQ/giphy.gif" width="120"/><br/>
+  🎤 Performed at Battle of Bands, Aatmatrisha'25
+</td>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="120"/><br/>
+  🏸 Runner-Up — Inter-Dept Women's Badminton
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠 Projects
+### 🛠 Projects — `AI-Powered Builds`
 
-#### 🛡️ [HarmLens](#)
-API-first content moderation system built for social platforms to integrate directly into their stack. Unlike one-off analysis tools, HarmLens processes millions of posts automatically, routes content to moderation queues, and triggers real platform actions.
+<details open>
+<summary>🛡️ <b>HarmLens</b> — Real-time Content Moderation Engine</summary>
+<br/>
 
-#### 🏥 [RecovAI](#)
-A full-stack application for predicting surgical complications using machine learning. Features dual portals for doctors and patients, with an AI-powered 24/7 recovery assistant.
+![Status](https://img.shields.io/badge/status-active-00F0FF?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Moderation-8A2BE2?style=flat-square)
 
-#### 🧠 [NeuroSense](#)
-Detects epileptic seizures from EEG signal data using a 1D Convolutional Neural Network (CNN). Classifies brain activity into seizure and non-seizure states — built to support patient monitoring and extendable to real-time alert systems and wearable healthcare devices.
+API-first content moderation system built for social platforms — processes millions of posts automatically, routes flagged content to moderation queues, and triggers real platform actions.
+</details>
 
-#### 🎧 [EchoNav](#)
-An AI-based assistive navigation system that helps visually impaired individuals interpret their surroundings through audio feedback, using real-time object detection and sound mapping to make navigation safer and more intuitive.
+<details>
+<summary>🏥 <b>RecovAI</b> — Predictive Surgical Recovery Assistant</summary>
+<br/>
 
+![ML](https://img.shields.io/badge/ML-Predictive_Models-00F0FF?style=flat-square)
+![Fullstack](https://img.shields.io/badge/Fullstack-Dual_Portal-8A2BE2?style=flat-square)
 
+Full-stack application predicting surgical complications using machine learning, with dual doctor/patient portals and an AI-powered 24/7 recovery assistant.
+</details>
+
+<details>
+<summary>🧠 <b>NeuroSense</b> — EEG-based Seizure Detection</summary>
+<br/>
+
+![CNN](https://img.shields.io/badge/1D_CNN-Signal_Classification-00F0FF?style=flat-square)
+![Healthcare](https://img.shields.io/badge/Healthcare-Wearables-8A2BE2?style=flat-square)
+
+Detects epileptic seizures from EEG signals using a 1D Convolutional Neural Network — extendable to real-time alerts and wearable healthcare devices.
+</details>
+
+<details>
+<summary>🎧 <b>EchoNav</b> — Audio-Guided Assistive Navigation</summary>
+<br/>
+
+![CV](https://img.shields.io/badge/Computer_Vision-Object_Detection-00F0FF?style=flat-square)
+![Accessibility](https://img.shields.io/badge/Accessibility-Sound_Mapping-8A2BE2?style=flat-square)
+
+AI-based assistive navigation for visually impaired individuals — real-time object detection mapped to audio feedback for safer, more intuitive movement.
+</details>
 
 ---
 
@@ -66,13 +129,21 @@ An AI-based assistive navigation system that helps visually impaired individuals
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantum%20Computing-00F0FF?style=for-the-badge&logo=qiskit&logoColor=white" />
+  <img src="https://img.shields.io/badge/CyberSecurity-FF4B4B?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Software%20Defined%20Networking-8A2BE2?style=for-the-badge" />
 </p>
@@ -82,13 +153,24 @@ An AI-based assistive navigation system that helps visually impaired individuals
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitasks-png&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitasks-png&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitasks-png&show_icons=true&theme=synthwave&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitasks-png&theme=synthwave&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitasks-png&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitasks-png&layout=compact&theme=synthwave&hide_border=true" width="60%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitasks-png&theme=react-dark&hide_border=true" width="90%" />
+</p>
+
+<!-- Animated contribution snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankitasks-png/ankitasks-png/output/github-contribution-grid-snake.svg" width="90%" alt="Snake animation"/>
+</p>
+
+<p align="center"><sub>💡 Snake animation requires a one-time GitHub Action setup — see <a href="https://github.com/Platane/snk">Platane/snk</a></sub></p>
 
 ---
 

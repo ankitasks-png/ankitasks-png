@@ -30,21 +30,7 @@
 </td>
 <td width="70%">
 
-```yaml
-# ── ankita.config.yaml ──────────────────────────
-class: Ankita
-role:    "BTech CSE @ PES University, Bangalore"
-focus:
-  - Software Development
-  - Machine Learning
-  - CyberSecurity
-obsession: "Quantum Computing 🌀"
-mode:      "always_debugging"
-
-def connect():
-    return "Let's build something intelligent together 🚀"
-# ─────────────────────────────────────────────────
-```
+<img src="./assets/profile-card.svg" alt="Ankita's mission profile card" width="100%"/>
 
 </td>
 </tr>

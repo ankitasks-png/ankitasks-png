@@ -21,22 +21,37 @@
 
 ---
 
-### 🤖 About Me — `AI x Human`
+### 🚀 About Me
 
-```python
-class Ankita:
-    def __init__(self):
-        self.role = "BTech CSE @ PES University, Bangalore"
-        self.focus = ["Software Development", "Machine Learning", "CyberSecurity"]
-        self.obsession = "Quantum Computing 🌀"
-        self.mode = "always_debugging"
+<table>
+<tr>
+<td width="30%" align="center" valign="middle">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="220"/>
+</td>
+<td width="70%">
 
-    def connect(self):
-        return "Let's build something intelligent together 🚀"
+```yaml
+# ── ankita.config.yaml ──────────────────────────
+class: Ankita
+role:    "BTech CSE @ PES University, Bangalore"
+focus:
+  - Software Development
+  - Machine Learning
+  - CyberSecurity
+obsession: "Quantum Computing 🌀"
+mode:      "always_debugging"
+
+def connect():
+    return "Let's build something intelligent together 🚀"
+# ─────────────────────────────────────────────────
 ```
 
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img src="https://camo.githubusercontent.com/622f2a12dfb04c5c84e50e774dbc84379d8b25e714aa2f47019b3e9ab4a0c5f/68747470733a2f2f6d696469362e70696374757265732e73766766696e642e636f6d2f4c6f747469652f4c6f747469652d5468696e6b696e672e676966" width="180"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&lines=%23+floating+through+code+and+constellations+%F0%9F%9A%80;%23+mission+status%3A+exploring+%7C+building+%7C+learning" alt="astronaut caption"/>
 </p>
 
 ---

@@ -11,7 +11,9 @@
 </p>
 
 ---
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ankitasks-png&style=flat-square&color=8A2BE2" alt="Profile views" />
+</p>
 <!-- AI Terminal-style animated intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E+booting_neural_net.py...;%3E+loading+quantum_module...+%E2%9C%93;%3E+status%3A+curious+%7C+caffeinated+%7C+compiling;%3E+ready_to_build()" alt="AI Terminal Typing" />

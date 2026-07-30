@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=800&size=38&duration=1&pause=60000&repeat=false&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ankita+S+%F0%9F%91%8B" alt="Ankita S" />
+  <img src="./assets/hero-title.svg" alt="Ankita S" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=700&size=28&duration=1&pause=60000&repeat=false&color=00F0FF&center=true&vCenter=true&width=400&lines=%F0%9F%9A%80+About+Me" alt="About Me" />
+  <img src="./assets/about-me.svg" alt="About Me" />
 </p>
 
 <table>
@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=700&size=28&duration=1&pause=60000&repeat=false&color=00F0FF&center=true&vCenter=true&width=560&lines=%F0%9F%A7%A0%F0%9F%93%8A+Technical+Events+%26+Research" alt="Technical Events & Research" />
+  <img src="./assets/tech-events.svg" alt="Technical Events & Research" />
 </p>
 
 <div align="center">
@@ -63,7 +63,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=700&size=28&duration=1&pause=60000&repeat=false&color=00F0FF&center=true&vCenter=true&width=550&lines=%F0%9F%9B%A0+Projects+%E2%80%94+AI-Powered+Builds" alt="Projects" />
+  <img src="./assets/projects.svg" alt="Projects" />
 </p>
 
 <details open>
@@ -109,7 +109,7 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=700&size=28&duration=1&pause=60000&repeat=false&color=8A2BE2&center=true&vCenter=true&width=400&lines=%F0%9F%92%BB+Tech+Stack" alt="Tech Stack" />
+  <img src="./assets/tech-stack.svg" alt="Tech Stack" />
 </p>
 
 <p align="left">
@@ -141,7 +141,7 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=700&size=28&duration=1&pause=60000&repeat=false&color=00F0FF&center=true&vCenter=true&width=450&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats" />
+  <img src="./assets/github-stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -167,7 +167,7 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=700&size=28&duration=1&pause=60000&repeat=false&color=8A2BE2&center=true&vCenter=true&width=500&lines=%F0%9F%93%AB+Connect+With+Me" alt="Connect With Me" />
+  <img src="./assets/connect.svg" alt="Connect With Me" />
 </p>
 
 <p align="center">

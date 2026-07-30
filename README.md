@@ -10,7 +10,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
----
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ankitasks-png&style=flat-square&color=8A2BE2" alt="Profile views" />
 </p>
@@ -22,8 +21,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/robot.gif" width="200"/>
 </p>
-
----
 
 <p align="center">
   <img src="./assets/about-me.svg" alt="About Me" />
@@ -41,8 +38,6 @@
 </td>
 </tr>
 </table>
-
----
 
 <p align="center">
   <img src="./assets/tech-events.svg" alt="Technical Events & Research" />
@@ -108,8 +103,6 @@ Detects epileptic seizures from EEG signals using a 1D Convolutional Neural Netw
 AI-based assistive navigation for visually impaired individuals — real-time object detection mapped to audio feedback for safer, more intuitive movement.
 </details>
 
----
-
 <p align="center">
   <img src="./assets/tech-stack.svg" alt="Tech Stack" />
 </p>
@@ -165,8 +158,6 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
 </p>
 
 <p align="center"><sub>💡 Snake animation requires a one-time GitHub Action setup — see <a href="https://github.com/Platane/snk">Platane/snk</a></sub></p>
-
----
 
 <p align="center">
   <img src="./assets/connect.svg" alt="Connect With Me" />

@@ -62,31 +62,6 @@
 
 </div>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=700&size=28&duration=1&pause=60000&repeat=false&color=8A2BE2&center=true&vCenter=true&width=500&lines=%F0%9F%8F%B8%F0%9F%8E%B8%F0%9F%8E%A4+Beyond+the+Code" alt="Beyond the Code" />
-</p>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  <img src="https://media.giphy.com/media/xUOxfjsW9fWPqEWouI/giphy.gif" width="120"/><br/>
-  🎶 Musician — Music Club of PES & Kannada Koota
-</td>
-<td align="center" width="33%">
-  <img src="https://media.giphy.com/media/l0MYFAlbGDrpJHKuQ/giphy.gif" width="120"/><br/>
-  🎤 Performed at Battle of Bands, Aatmatrisha'25
-</td>
-<td align="center" width="33%">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="120"/><br/>
-  🏸 Runner-Up — Inter-Dept Women's Badminton
-</td>
-</tr>
-</table>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=700&size=28&duration=1&pause=60000&repeat=false&color=00F0FF&center=true&vCenter=true&width=550&lines=%F0%9F%9B%A0+Projects+%E2%80%94+AI-Powered+Builds" alt="Projects" />
 </p>

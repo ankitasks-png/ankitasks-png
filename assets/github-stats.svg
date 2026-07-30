@@ -1,0 +1,44 @@
+<svg width="460" height="90" viewBox="0 0 460 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="b1"/>
+      <feMerge>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowStrong" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="b2"/>
+      <feMerge>
+        <feMergeNode in="b2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="grad_github_stats" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#8A2BE2"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .txt_github_stats { font-family: 'Consolas','Courier New',monospace; font-weight: 800; letter-spacing: 2px; }
+  </style>
+
+  <path d="M 32 10.799999999999999 L 22 39.0 L 34 39.0 L 18 79.2 L 48 49.0 L 34 49.0 L 46 10.799999999999999 Z" fill="#8A2BE2" filter="url(#glow)" opacity="0.9">
+    <animate attributeName="opacity" values="1;0.15;0.9;0.1;1" dur="1.3s" begin="0.0s" repeatCount="indefinite"/>
+  </path>
+  <path d="M 428 10.799999999999999 L 438 39.0 L 426 39.0 L 442 79.2 L 412 49.0 L 426 49.0 L 414 10.799999999999999 Z" fill="#8A2BE2" filter="url(#glow)" opacity="0.9">
+    <animate attributeName="opacity" values="1;0.15;0.9;0.1;1" dur="1.3s" begin="0.4s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="230.0" y="53.96" text-anchor="middle" class="txt_github_stats" font-size="28"
+        fill="#8A2BE2" filter="url(#glowStrong)" opacity="0.85">
+    <animate attributeName="opacity" values="0.9;0.25;1;0.4;0.95;0.15;1" dur="2.6s" repeatCount="indefinite"/>
+    📊 GitHub Stats
+  </text>
+
+  <text x="230.0" y="53.96" text-anchor="middle" class="txt_github_stats" font-size="28"
+        fill="url(#grad_github_stats)" filter="url(#glow)">
+    📊 GitHub Stats
+    <animate attributeName="x" values="230.0;227.5;232.5;229.0;230.0" dur="0.18s" begin="1.8s;3.9s;5.7s" repeatCount="1" fill="freeze"/>
+  </text>
+</svg>

@@ -1,0 +1,44 @@
+<svg width="760" height="110" viewBox="0 0 760 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="b1"/>
+      <feMerge>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowStrong" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="b2"/>
+      <feMerge>
+        <feMergeNode in="b2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="grad_hero_title" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8A2BE2"/>
+      <stop offset="100%" stop-color="#00F0FF"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .txt_hero_title { font-family: 'Consolas','Courier New',monospace; font-weight: 800; letter-spacing: 2px; }
+  </style>
+
+  <path d="M 40 13.2 L 30 49.0 L 42 49.0 L 26 96.8 L 56 59.0 L 42 59.0 L 54 13.2 Z" fill="#00F0FF" filter="url(#glow)" opacity="0.9">
+    <animate attributeName="opacity" values="1;0.15;0.9;0.1;1" dur="1.3s" begin="0.0s" repeatCount="indefinite"/>
+  </path>
+  <path d="M 720 13.2 L 730 49.0 L 718 49.0 L 734 96.8 L 704 59.0 L 718 59.0 L 706 13.2 Z" fill="#00F0FF" filter="url(#glow)" opacity="0.9">
+    <animate attributeName="opacity" values="1;0.15;0.9;0.1;1" dur="1.3s" begin="0.4s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="380.0" y="67.16" text-anchor="middle" class="txt_hero_title" font-size="38"
+        fill="#00F0FF" filter="url(#glowStrong)" opacity="0.85">
+    <animate attributeName="opacity" values="0.9;0.25;1;0.4;0.95;0.15;1" dur="2.6s" repeatCount="indefinite"/>
+    Hi there, I'm Ankita S 👋
+  </text>
+
+  <text x="380.0" y="67.16" text-anchor="middle" class="txt_hero_title" font-size="38"
+        fill="url(#grad_hero_title)" filter="url(#glow)">
+    Hi there, I'm Ankita S 👋
+    <animate attributeName="x" values="380.0;377.5;382.5;379.0;380.0" dur="0.18s" begin="1.8s;3.9s;5.7s" repeatCount="1" fill="freeze"/>
+  </text>
+</svg>

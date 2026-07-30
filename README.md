@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Ankita S 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=800&size=38&duration=1&pause=60000&repeat=false&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ankita+S+%F0%9F%91%8B" alt="Ankita S" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=BTech+CSE+Student+%40+PES+University;Software+Development+%7C+ML+%7C+CyberSecurity;Exploring+the+world+of+Quantum+Computing;Musician+%7C+Badminton+Player+%7C+Builder" alt="Typing SVG" />
@@ -12,7 +14,7 @@
 
 <!-- AI Terminal-style animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E+booting_neural_net.py...;%3E+loading+quantum_module...+%E2%9C%93;%3E+status%3A+curious+&+compiling;%3E+ready_to_build()" alt="AI Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E+booting_neural_net.py...;%3E+loading+quantum_module...+%E2%9C%93;%3E+status%3A+curious+%7C+caffeinated+%7C+compiling;%3E+ready_to_build()" alt="AI Terminal Typing" />
 </p>
 
 <p align="center">
@@ -21,7 +23,9 @@
 
 ---
 
-### 🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=700&size=28&duration=1&pause=60000&repeat=false&color=00F0FF&center=true&vCenter=true&width=400&lines=%F0%9F%9A%80+About+Me" alt="About Me" />
+</p>
 
 <table>
 <tr>
@@ -38,7 +42,9 @@
 
 ---
 
-### 🧠📊 Technical/Non Technical Events & Research
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=700&size=28&duration=1&pause=60000&repeat=false&color=00F0FF&center=true&vCenter=true&width=560&lines=%F0%9F%A7%A0%F0%9F%93%8A+Technical+Events+%26+Research" alt="Technical Events & Research" />
+</p>
 
 <div align="center">
 
@@ -56,10 +62,34 @@
 
 </div>
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=700&size=28&duration=1&pause=60000&repeat=false&color=8A2BE2&center=true&vCenter=true&width=500&lines=%F0%9F%8F%B8%F0%9F%8E%B8%F0%9F%8E%A4+Beyond+the+Code" alt="Beyond the Code" />
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/xUOxfjsW9fWPqEWouI/giphy.gif" width="120"/><br/>
+  🎶 Musician — Music Club of PES & Kannada Koota
+</td>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/l0MYFAlbGDrpJHKuQ/giphy.gif" width="120"/><br/>
+  🎤 Performed at Battle of Bands, Aatmatrisha'25
+</td>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="120"/><br/>
+  🏸 Runner-Up — Inter-Dept Women's Badminton
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠 Projects 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=700&size=28&duration=1&pause=60000&repeat=false&color=00F0FF&center=true&vCenter=true&width=550&lines=%F0%9F%9B%A0+Projects+%E2%80%94+AI-Powered+Builds" alt="Projects" />
+</p>
 
 <details open>
 <summary>🛡️ <b>HarmLens</b> — Real-time Content Moderation Engine</summary>
@@ -103,7 +133,9 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
 
 ---
 
-### 💻 Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=700&size=28&duration=1&pause=60000&repeat=false&color=8A2BE2&center=true&vCenter=true&width=400&lines=%F0%9F%92%BB+Tech+Stack" alt="Tech Stack" />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
@@ -133,7 +165,9 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
 
 ---
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=700&size=28&duration=1&pause=60000&repeat=false&color=00F0FF&center=true&vCenter=true&width=450&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitasks-png&show_icons=true&theme=synthwave&hide_border=true" width="48%" />
@@ -153,10 +187,13 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
   <img src="https://raw.githubusercontent.com/ankitasks-png/ankitasks-png/output/github-contribution-grid-snake.svg" width="90%" alt="Snake animation"/>
 </p>
 
+<p align="center"><sub>💡 Snake animation requires a one-time GitHub Action setup — see <a href="https://github.com/Platane/snk">Platane/snk</a></sub></p>
 
 ---
 
-### 📫 Connect With Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=700&size=28&duration=1&pause=60000&repeat=false&color=8A2BE2&center=true&vCenter=true&width=500&lines=%F0%9F%93%AB+Connect+With+Me" alt="Connect With Me" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankita-satish-kumar-0b84131b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

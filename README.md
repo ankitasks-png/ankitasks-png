@@ -177,4 +177,4 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=&fontSize=0" width="100%"/>
 </p>
 
-<p align="center"><i>✨ Thanks for stopping by — always up for a chat about ML, security, or the mysteries of quantum computing! ✨</i></p>
+<p align="center"><i>✨ Thank you :) ✨</i></p>

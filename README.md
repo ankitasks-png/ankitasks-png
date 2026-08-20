@@ -157,8 +157,6 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
   <img src="https://raw.githubusercontent.com/ankitasks-png/ankitasks-png/output/github-contribution-grid-snake.svg" width="90%" alt="Snake animation"/>
 </p>
 
-<p align="center"><sub>💡 Snake animation requires a one-time GitHub Action setup — see <a href="https://github.com/Platane/snk">Platane/snk</a></sub></p>
-
 <p align="center">
   <img src="./assets/connect.svg" alt="Connect With Me" />
 </p>

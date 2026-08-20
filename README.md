@@ -173,11 +173,11 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
   <a href="https://www.linkedin.com/in/ankita-satish-kumar-0b84131b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ankitasks-png"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:ankitasatish0711@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:PES1UG24CS066@stu.pes.edu"><img src="https://img.shields.io/badge/%F0%9F%8E%93_College%20Mail-PES1UG24CS066%40stu.pes.edu-8A2BE2?style=for-the-badge" /></a>
+  <a href="mailto:PES1UG24CS066@stu.pes.edu"><img src="https://img.shields.io/badge/%F0%9F%8E%93_College%20Mail-8A2BE2?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=&fontSize=0" width="100%"/>
 </p>
 
-<p align="center"><i>✨ Thanks you :)! ✨</i></p>
+<p align="center"><i>✨ Thanks you :) ✨</i></p>

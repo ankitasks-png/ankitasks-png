@@ -1,0 +1,45 @@
+<svg width="240" height="44" viewBox="0 0 240 44" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(30,4)">
+    <circle cx="0" cy="0" r="12">
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-1;0,0" dur="0.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(30,6)">
+    <circle cx="0" cy="0" r="4" fill="none" stroke="#00F0FF" stroke-width="0.8" opacity="0">
+      <animate attributeName="opacity" values="0;0.7;0" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4;12;4" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="4" fill="none" stroke="#00F0FF" stroke-width="0.8" opacity="0">
+      <animate attributeName="opacity" values="0;0.7;0" dur="1.6s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4;12;4" dur="1.6s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g stroke="#8A2BE2" stroke-width="2" stroke-linecap="round" fill="none">
+    <circle cx="30" cy="8" r="5" fill="#8A2BE2" stroke="none"/>
+    <line x1="30" y1="13" x2="30" y2="27">
+      <animateTransform attributeName="transform" type="rotate" values="0 30 13; 3 30 13; 0 30 13; -3 30 13; 0 30 13" dur="0.8s" repeatCount="indefinite"/>
+    </line>
+
+    <line x1="30" y1="16" x2="23" y2="24">
+      <animateTransform attributeName="transform" type="rotate" values="-15 30 16;20 30 16;-15 30 16" dur="0.8s" repeatCount="indefinite"/>
+    </line>
+    <line x1="23" y1="24" x2="18" y2="34" stroke="#c9c9d8">
+      <animateTransform attributeName="transform" type="rotate" values="-15 23 24;20 23 24;-15 23 24" dur="0.8s" repeatCount="indefinite"/>
+    </line>
+
+    <line x1="30" y1="19" x2="35" y2="26">
+      <animateTransform attributeName="transform" type="rotate" values="15 30 19;-15 30 19;15 30 19" dur="0.8s" repeatCount="indefinite"/>
+    </line>
+
+    <line x1="30" y1="27" x2="25" y2="40">
+      <animateTransform attributeName="transform" type="rotate" values="18 30 27;-18 30 27;18 30 27" dur="0.8s" repeatCount="indefinite"/>
+    </line>
+    <line x1="30" y1="27" x2="35" y2="40">
+      <animateTransform attributeName="transform" type="rotate" values="-18 30 27;18 30 27;-18 30 27" dur="0.8s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <line x1="0" y1="42" x2="70" y2="42" stroke="#3a3a55" stroke-width="0.5"/>
+</svg>

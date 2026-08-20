@@ -1,0 +1,26 @@
+<svg width="240" height="44" viewBox="0 0 240 44" xmlns="http://www.w3.org/2000/svg">
+  <polyline points="86,10 132,22 86,34" fill="none" stroke="#8A2BE2" stroke-width="1" opacity="0.55"/>
+  <line x1="10" y1="22" x2="86" y2="22" stroke="#8A2BE2" stroke-width="0.5" opacity="0.35"/>
+  <path d="M132,22 L188,8 L204,8" fill="none" stroke="#00F0FF" stroke-width="0.5" opacity="0.35"/>
+  <path d="M132,22 L188,36 L204,36" fill="none" stroke="#FF6B6B" stroke-width="0.5" opacity="0.35"/>
+
+  <circle cx="215" cy="8" r="6" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.8"/>
+  <path d="M212,8 L214.5,10.5 L219,6" fill="none" stroke="#00F0FF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="215" cy="36" r="6" fill="none" stroke="#FF6B6B" stroke-width="1" opacity="0.8"/>
+  <line x1="215" y1="33" x2="215" y2="37.5" stroke="#FF6B6B" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="215" cy="39.5" r="0.7" fill="#FF6B6B"/>
+
+  <circle r="2.6" fill="#00F0FF">
+    <animateMotion path="M10,22 L86,22 L132,22 L188,8 L204,8" dur="2.6s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.05;0.5;0.9;1" dur="2.6s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.6" fill="#00F0FF">
+    <animateMotion path="M10,22 L86,22 L132,22 L188,8 L204,8" dur="2.6s" begin="0.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.05;0.5;0.9;1" dur="2.6s" begin="0.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.6" fill="#FF6B6B">
+    <animateMotion path="M10,22 L86,22 L132,22 L188,36 L204,36" dur="2.6s" begin="1.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.05;0.5;0.9;1" dur="2.6s" begin="1.7s" repeatCount="indefinite"/>
+  </circle>
+</svg>

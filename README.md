@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&background=%23302B63&center=true&vCenter=true&width=700&height=110&lines=BTech+Third+Year+CSE+Student+%40+PES+University;Software+Development+%7C+Machine+Learning+%7C+Cyber+Security;Exploring+the+world+of+Quantum+Computing;Musician+%7C+Athlete+%7C+Innovator;Being+Average+Sucks+Bruhh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&background=%23302B63&center=true&vCenter=true&width=700&height=110&lines=BTech+CSE+Student+%40+PES+University;Software+Development+%7C+ML+%7C+CyberSecurity;Exploring+the+world+of+Quantum+Computing;Musician+%7C+Badminton+Player+%7C+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:24243e&height=90&section=footer&text=&fontSize=0" width="100%"/>
+  <img src="./assets/hero-wave-circuit.svg" width="100%" alt="AI circuit animation"/>
 </p>
 
 <p align="right">
@@ -180,4 +180,4 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=&fontSize=0" width="100%"/>
 </p>
 
-<p align="center"><i>✨ Thanks you :) ✨</i></p>
+<p align="center"><i>✨ Thanks for stopping by — always up for a chat about ML, security, or the mysteries of quantum computing! ✨</i></p>

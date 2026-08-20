@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=BTech+CSE+Student+%40+PES+University;Software+Development+%7C+ML+%7C+CyberSecurity;Exploring+the+world+of+Quantum+Computing;Musician+%7C+Badminton+Player+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&background=%23302B63&center=true&vCenter=true&width=700&height=110&lines=BTech+CSE+Student+%40+PES+University;Software+Development+%7C+ML+%7C+CyberSecurity;Exploring+the+world+of+Quantum+Computing;Musician+%7C+Badminton+Player+%7C+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:24243e&height=90&section=footer&text=&fontSize=0" width="100%"/>
 </p>
 
 <p align="right">

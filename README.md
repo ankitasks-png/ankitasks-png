@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&background=%23302B63&center=true&vCenter=true&width=700&height=110&lines=BTech+CSE+Student+%40+PES+University;Software+Development+%7C+ML+%7C+CyberSecurity;Exploring+the+world+of+Quantum+Computing;Musician+%7C+Athlete+%7C+Sketcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&background=%23302B63&center=true&vCenter=true&width=700&height=110&lines=BTech+CSE+Student+%40+PES+University;Software+Development+%7C+ML+%7C+CyberSecurity;Exploring+the+world+of+Quantum+Computing;Musician+%7C+Badminton+Player+%7C+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -71,6 +71,8 @@
 ![AI](https://img.shields.io/badge/AI-Moderation-8A2BE2?style=flat-square)
 
 API-first content moderation system built for social platforms — processes millions of posts automatically, routes flagged content to moderation queues, and triggers real platform actions.
+
+<img src="./assets/harmlens-anim.svg" width="240" alt="flagged content filtering animation"/>
 </details>
 
 <details>
@@ -81,6 +83,8 @@ API-first content moderation system built for social platforms — processes mil
 ![Fullstack](https://img.shields.io/badge/Fullstack-Dual_Portal-8A2BE2?style=flat-square)
 
 Full-stack application predicting surgical complications using machine learning, with dual doctor/patient portals and an AI-powered 24/7 recovery assistant.
+
+<img src="./assets/recovai-anim.svg" width="240" alt="heart monitor animation"/>
 </details>
 
 <details>
@@ -91,6 +95,8 @@ Full-stack application predicting surgical complications using machine learning,
 ![Healthcare](https://img.shields.io/badge/Healthcare-Wearables-8A2BE2?style=flat-square)
 
 Detects epileptic seizures from EEG signals using a 1D Convolutional Neural Network — extendable to real-time alerts and wearable healthcare devices.
+
+<img src="./assets/neurosense-anim.svg" width="240" alt="EEG spike to alert animation"/>
 </details>
 
 <details>
@@ -101,6 +107,8 @@ Detects epileptic seizures from EEG signals using a 1D Convolutional Neural Netw
 ![Accessibility](https://img.shields.io/badge/Accessibility-Sound_Mapping-8A2BE2?style=flat-square)
 
 AI-based assistive navigation for visually impaired individuals — real-time object detection mapped to audio feedback for safer, more intuitive movement.
+
+<img src="./assets/echonav-anim.svg" width="240" alt="walking silhouette with audio feedback animation"/>
 </details>
 
 <p align="center">

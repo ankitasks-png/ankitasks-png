@@ -67,8 +67,7 @@
   <img src="./assets/projects.svg" alt="Projects" />
 </p>
 
-<details open>
-<summary>🛡️ <b>HarmLens</b> — Real-time Content Moderation Engine</summary>
+<p>▶ 🛡️ <b>HarmLens</b> — Real-time Content Moderation Engine</p>
 <br/>
 
 ![Status](https://img.shields.io/badge/status-active-00F0FF?style=flat-square)
@@ -77,10 +76,8 @@
 API-first content moderation system built for social platforms — processes millions of posts automatically, routes flagged content to moderation queues, and triggers real platform actions.
 
 <img src="./assets/harmlens-anim.svg" width="240" alt="flagged content filtering animation"/>
-</details>
 
-<details>
-<summary>🏥 <b>RecovAI</b> — Predictive Surgical Recovery Assistant</summary>
+<p>▶ 🏥 <b>RecovAI</b> — Predictive Surgical Recovery Assistant</p>
 <br/>
 
 ![ML](https://img.shields.io/badge/ML-Predictive_Models-00F0FF?style=flat-square)
@@ -89,10 +86,8 @@ API-first content moderation system built for social platforms — processes mil
 Full-stack application predicting surgical complications using machine learning, with dual doctor/patient portals and an AI-powered 24/7 recovery assistant.
 
 <img src="./assets/recovai-anim.svg" width="240" alt="heart monitor animation"/>
-</details>
 
-<details>
-<summary>🧠 <b>NeuroSense</b> — EEG-based Seizure Detection</summary>
+<p>▶ 🧠 <b>NeuroSense</b> — EEG-based Seizure Detection</p>
 <br/>
 
 ![CNN](https://img.shields.io/badge/1D_CNN-Signal_Classification-00F0FF?style=flat-square)
@@ -101,10 +96,8 @@ Full-stack application predicting surgical complications using machine learning,
 Detects epileptic seizures from EEG signals using a 1D Convolutional Neural Network — extendable to real-time alerts and wearable healthcare devices.
 
 <img src="./assets/neurosense-anim.svg" width="240" alt="EEG spike to alert animation"/>
-</details>
 
-<details>
-<summary>🎧 <b>EchoNav</b> — Audio-Guided Assistive Navigation</summary>
+<p>▶ 🎧 <b>EchoNav</b> — Audio-Guided Assistive Navigation</p>
 <br/>
 
 ![CV](https://img.shields.io/badge/Computer_Vision-Object_Detection-00F0FF?style=flat-square)
@@ -113,9 +106,9 @@ Detects epileptic seizures from EEG signals using a 1D Convolutional Neural Netw
 AI-based assistive navigation for visually impaired individuals — real-time object detection mapped to audio feedback for safer, more intuitive movement.
 
 <img src="./assets/echonav-anim.svg" width="240" alt="walking silhouette with audio feedback animation"/>
-</details>
 
 <p align="center">
+
   <img src="./assets/tech-stack.svg" alt="Tech Stack" />
 </p>
 

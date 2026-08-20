@@ -1,0 +1,83 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bandGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="1.6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- solid purple band -->
+  <rect x="0" y="0" width="1200" height="90" fill="url(#bandGrad)"/>
+
+  <!-- wavy cut at the bottom, matching page background -->
+  <path d="M0,72 C150,50 300,90 450,68 C600,46 750,86 900,64 C1050,44 1150,74 1200,60 L1200,90 L0,90 Z" fill="#0f0c29"/>
+
+  <!-- circuit wire traces -->
+  <g fill="none" stroke-linecap="round" opacity="0.55">
+    <path id="wireA" d="M-20,18 L120,18 L150,32 L340,32 L370,14 L560,14 L590,28 L780,28 L810,16 L1000,16 L1030,30 L1220,30" stroke="#00F0FF" stroke-width="1"/>
+    <path id="wireB" d="M-20,46 L90,46 L118,58 L300,58 L328,42 L520,42 L548,54 L740,54 L768,40 L960,40 L988,52 L1220,52" stroke="#8A2BE2" stroke-width="1"/>
+    <path id="wireC" d="M-20,8 L200,8 L226,20 L430,20 L456,6 L660,6 L686,18 L890,18 L916,4 L1120,4 L1146,16 L1220,16" stroke="#00F0FF" stroke-width="0.75"/>
+  </g>
+
+  <!-- junction nodes -->
+  <g fill="#00F0FF" filter="url(#glow)">
+    <circle cx="150" cy="32" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="370" cy="14" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <circle cx="590" cy="28" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="810" cy="16" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1030" cy="30" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#8A2BE2" filter="url(#glow)">
+    <circle cx="118" cy="58" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="328" cy="42" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="548" cy="54" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="768" cy="40" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" begin="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="988" cy="52" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- traveling data pulses along the wires -->
+  <circle r="2.2" fill="#00F0FF" filter="url(#glow)">
+    <animateMotion dur="6s" begin="0s" repeatCount="indefinite">
+      <mpath href="#wireA"/>
+    </animateMotion>
+  </circle>
+  <circle r="2.2" fill="#00F0FF" filter="url(#glow)">
+    <animateMotion dur="6s" begin="2s" repeatCount="indefinite">
+      <mpath href="#wireA"/>
+    </animateMotion>
+  </circle>
+  <circle r="2.2" fill="#00F0FF" filter="url(#glow)">
+    <animateMotion dur="6s" begin="4s" repeatCount="indefinite">
+      <mpath href="#wireA"/>
+    </animateMotion>
+  </circle>
+
+  <circle r="2.2" fill="#B388FF" filter="url(#glow)">
+    <animateMotion dur="7s" begin="1s" repeatCount="indefinite">
+      <mpath href="#wireB"/>
+    </animateMotion>
+  </circle>
+  <circle r="2.2" fill="#B388FF" filter="url(#glow)">
+    <animateMotion dur="7s" begin="3.5s" repeatCount="indefinite">
+      <mpath href="#wireB"/>
+    </animateMotion>
+  </circle>
+
+  <circle r="1.8" fill="#00F0FF" filter="url(#glow)" opacity="0.8">
+    <animateMotion dur="5s" begin="0.7s" repeatCount="indefinite">
+      <mpath href="#wireC"/>
+    </animateMotion>
+  </circle>
+  <circle r="1.8" fill="#00F0FF" filter="url(#glow)" opacity="0.8">
+    <animateMotion dur="5s" begin="3s" repeatCount="indefinite">
+      <mpath href="#wireC"/>
+    </animateMotion>
+  </circle>
+</svg>

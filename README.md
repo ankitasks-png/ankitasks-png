@@ -91,6 +91,7 @@ API-first content moderation system built for social platforms — processes mil
 
 A Retrieval-Augmented Generation based system that personalizes pet recommendations to match users with their ideal companion.
 
+<img src="./assets/petmatchai-anim.svg" width="240" alt="user to pet matching animation"/>
 </details>
 
 </td>
@@ -122,6 +123,7 @@ Full-stack application predicting surgical complications using machine learning,
 
 A Tri-Service OSINT dashboard built to aggregate and visualize open-source intelligence across defense domains.
 
+<img src="./assets/missionparakram-anim.svg" width="240" alt="radar sweep intelligence dashboard animation"/>
 </details>
 
 </td>

@@ -38,7 +38,7 @@
 
   <text x="310.0" y="53.32" text-anchor="middle" class="txt_projects" font-size="26"
         fill="url(#grad_projects)" filter="url(#glow)">
-    🛠 Projects — AI-Powered Builds
+    🛠 Projects — MY BEST ONES
     <animate attributeName="x" values="310.0;307.5;312.5;309.0;310.0" dur="0.18s" begin="1.8s;3.9s;5.7s" repeatCount="1" fill="freeze"/>
   </text>
 </svg>

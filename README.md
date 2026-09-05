@@ -202,6 +202,20 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
   <img src="https://img.shields.io/badge/CyberSecurity-FF4B4B?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
+**Deployments**
+<p align="left">
+  <img src="https://www.google.com/s2/favicons?domain=render.com&sz=64" width="32" height="32" title="Render"/>
+  <img src="https://www.google.com/s2/favicons?domain=lovable.dev&sz=64" width="32" height="32" title="Lovable"/>
+  <img src="https://www.google.com/s2/favicons?domain=vercel.com&sz=64" width="32" height="32" title="Vercel"/>
+  <img src="https://www.google.com/s2/favicons?domain=netlify.com&sz=64" width="32" height="32" title="Netlify"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-FF3366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+
 ---
 
 <p align="center">

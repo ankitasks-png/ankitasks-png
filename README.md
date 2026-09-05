@@ -75,7 +75,7 @@ API-first content moderation system built for social platforms — processes mil
 <img src="./assets/harmlens-anim.svg" width="240" alt="flagged content filtering animation"/>
 </details>
 
-<details>
+<details open>
 <summary>🏥 <b>RecovAI</b> — Predictive Surgical Recovery Assistant</summary>
 <br/>
 
@@ -87,7 +87,7 @@ Full-stack application predicting surgical complications using machine learning,
 <img src="./assets/recovai-anim.svg" width="240" alt="heart monitor animation"/>
 </details>
 
-<details>
+<details open>
 <summary>🧠 <b>NeuroSense</b> — EEG-based Seizure Detection</summary>
 <br/>
 
@@ -99,7 +99,7 @@ Detects epileptic seizures from EEG signals using a 1D Convolutional Neural Netw
 <img src="./assets/neurosense-anim.svg" width="240" alt="EEG spike to alert animation"/>
 </details>
 
-<details>
+<details open>
 <summary>🎧 <b>EchoNav</b> — Audio-Guided Assistive Navigation</summary>
 <br/>
 

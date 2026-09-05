@@ -63,6 +63,10 @@
   <img src="./assets/projects.svg" alt="Projects" />
 </p>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 <details open>
 <summary>🛡️ <b>HarmLens</b> — Real-time Content Moderation Engine</summary>
 <br/>
@@ -74,6 +78,25 @@ API-first content moderation system built for social platforms — processes mil
 
 <img src="./assets/harmlens-anim.svg" width="240" alt="flagged content filtering animation"/>
 </details>
+
+</td>
+<td width="50%" valign="top">
+
+<details open>
+<summary>🐾 <b>PetMatchAI</b> — RAG-Based Personalized Pet Recommendation System <i>[Currently Working]</i></summary>
+<br/>
+
+![Status](https://img.shields.io/badge/status-in_progress-FFA500?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Recommendation_System-8A2BE2?style=flat-square)
+
+A Retrieval-Augmented Generation based system that personalizes pet recommendations to match users with their ideal companion.
+
+</details>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 <details open>
 <summary>🏥 <b>RecovAI</b> — Predictive Surgical Recovery Assistant</summary>
@@ -87,6 +110,25 @@ Full-stack application predicting surgical complications using machine learning,
 <img src="./assets/recovai-anim.svg" width="240" alt="heart monitor animation"/>
 </details>
 
+</td>
+<td width="50%" valign="top">
+
+<details open>
+<summary>🎖️ <b>Mission Parakram</b> — Tri-Service OSINT Dashboard <i>[Currently Working]</i></summary>
+<br/>
+
+![OSINT](https://img.shields.io/badge/OSINT-Dashboard-8A2BE2?style=flat-square)
+![Defense](https://img.shields.io/badge/Tri--Service-Intelligence-00F0FF?style=flat-square)
+
+A Tri-Service OSINT dashboard built to aggregate and visualize open-source intelligence across defense domains.
+
+</details>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <details open>
 <summary>🧠 <b>NeuroSense</b> — EEG-based Seizure Detection</summary>
 <br/>
@@ -99,6 +141,9 @@ Detects epileptic seizures from EEG signals using a 1D Convolutional Neural Netw
 <img src="./assets/neurosense-anim.svg" width="240" alt="EEG spike to alert animation"/>
 </details>
 
+</td>
+<td width="50%" valign="top">
+
 <details open>
 <summary>🎧 <b>EchoNav</b> — Audio-Guided Assistive Navigation</summary>
 <br/>
@@ -110,6 +155,10 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
 
 <img src="./assets/echonav-anim.svg" width="240" alt="walking silhouette with audio feedback animation"/>
 </details>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="./assets/tech-stack.svg" alt="Tech Stack" />

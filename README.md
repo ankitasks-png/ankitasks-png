@@ -115,6 +115,7 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
   <img src="./assets/tech-stack.svg" alt="Tech Stack" />
 </p>
 
+**Programming Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -124,6 +125,7 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+**ML / AI & Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
@@ -133,12 +135,20 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+**Core CS & Domains**
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Structures-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Advanced%20Algorithms-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Defined%20Networking-8A2BE2?style=for-the-badge" />
+</p>
+
+**Areas of Interest**
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge&logo=OpenAI&logoColor=white" />
   <img src="https://img.shields.io/badge/Quantum%20Computing-00F0FF?style=for-the-badge&logo=qiskit&logoColor=white" />
   <img src="https://img.shields.io/badge/CyberSecurity-FF4B4B?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Structures-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Defined%20Networking-8A2BE2?style=for-the-badge" />
 </p>
 
 ---

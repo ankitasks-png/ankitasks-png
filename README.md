@@ -52,7 +52,7 @@
 | | ⚡ Genesys - State Level Hackathon | IRA - Operations and Marketing |
 | | 🌏 IBM Global Datathon | Kannada Koota - Guitarist |
 | | 🎃 Hack-O-Ween - 24 Hour Hackathon - Top 10 Finalist | Music Club of PES - Musician |
-| | 🇮🇳 GRASP - National Hackathon | |
+| | 🇮🇳 GRASP - National Level Hackathon | |
 | | 💡 CIE SPARK - Top 20 Finalist - Entrepreneurial Ideathon | |
 | | 🥈 Runner's Up - Badminton | |
 | | 🎼 Battle Of Bands - Aatmatrisha College Fest - 2025 | |

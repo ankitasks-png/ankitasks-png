@@ -60,6 +60,14 @@
 </div>
 
 <p align="center">
+  <img src="./assets/gotoquote-title.svg" alt="Go-To Quote" />
+</p>
+
+<p align="center">
+  <i><b>"No matter how much you're struggling, there's always a 1% chance to improve.<br/>Make sure you give your 100% for that 1%."</b></i>
+</p>
+
+<p align="center">
   <img src="./assets/projects.svg" alt="Projects" />
 </p>
 

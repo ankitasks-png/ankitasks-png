@@ -211,22 +211,8 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-**Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
 
 **Deployments**
-<p align="left">
-  <img src="https://www.google.com/s2/favicons?domain=render.com&sz=64" width="32" height="32" title="Render"/>
-  <img src="https://www.google.com/s2/favicons?domain=lovable.dev&sz=64" width="32" height="32" title="Lovable"/>
-  <img src="https://www.google.com/s2/favicons?domain=vercel.com&sz=64" width="32" height="32" title="Vercel"/>
-  <img src="https://www.google.com/s2/favicons?domain=netlify.com&sz=64" width="32" height="32" title="Netlify"/>
-</p>
 <p align="left">
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Lovable-FF3366?style=for-the-badge" />
@@ -235,14 +221,6 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
 </p>
 
 ---
-
-<p align="center">
-  <img src="./assets/gotoquote-title.svg" alt="Go-To Quote" />
-</p>
-
-<p align="center">
-  <i><b>"No matter how much you're struggling, there's always a 1% chance to improve.<br/>Make sure you give your 100% for that 1%."</b></i>
-</p>
 
 <p align="center">
   <img src="./assets/github-stats.svg" alt="GitHub Stats" />

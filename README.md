@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <i><b>"No matter how much you're struggling, there's always a 1% chance to improve.<br/>Make sure you give your 100% for that 1%."</b></i>
+  <i><b>"Never underestimate the power of 1%. If there’s even the smallest chance of becoming better, give it everything you’ve got. You never know how far 100% effort can take that 1%"</b></i>
 </p>
 
 <p align="center">

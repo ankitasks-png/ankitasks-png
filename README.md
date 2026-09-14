@@ -249,12 +249,12 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankitasks-png&show_icons=true&theme=synthwave&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-ten-rust-79.vercel.app/api?username=ankitasks-png&show_icons=true&theme=synthwave&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitasks-png&theme=synthwave&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankitasks-png&layout=compact&theme=synthwave&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats-ten-rust-79.vercel.app/api/top-langs/?username=ankitasks-png&layout=compact&theme=synthwave&hide_border=true" width="60%" />
 </p>
 
 <p align="center">

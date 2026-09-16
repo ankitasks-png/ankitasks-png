@@ -211,15 +211,6 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-**Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
 **Deployments**
 <p align="left">
   <img src="https://www.google.com/s2/favicons?domain=render.com&sz=64" width="32" height="32" title="Render"/>
@@ -249,6 +240,10 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitasks-png&theme=algolia&no-frame=true&margin-w=8&row=1" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-ten-rust-79.vercel.app/api?username=ankitasks-png&show_icons=true&theme=synthwave&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitasks-png&theme=synthwave&hide_border=true" width="48%" />
 </p>
@@ -264,6 +259,11 @@ AI-based assistive navigation for visually impaired individuals — real-time ob
 <!-- Animated contribution snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ankitasks-png/ankitasks-png/output/github-contribution-grid-snake.svg" width="90%" alt="Snake animation"/>
+</p>
+
+### 🏅 Achievements
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60" alt="Quickdraw (Gitty up!) achievement badge" title="Quickdraw — Gitty up!"/>
 </p>
 
 <p align="center">
